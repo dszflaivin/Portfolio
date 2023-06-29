@@ -5,12 +5,12 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-html,body{
+/* html,body{
   display: grid;
   height: 100%;
   width: 100%;
   background: linear-gradient(315deg, #ffffff 0%, #d7e1ec 74%);
-}
+} */
 
 .wrapper {
     display: flex;
